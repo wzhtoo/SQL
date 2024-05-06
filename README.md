@@ -4,7 +4,7 @@
 
 **Hello and welcome!**
 
-    I'm WIN ZAW HTOO, the creator of this SQL learning repository. My aim is to make SQL accessible and understandable for everyone. This repository is a reflection of my journey in mastering SQL. I invite you to join me on this exciting journey. You can also practice SQL using this link below. I've provided solutions for all the exercises there. Let's learn together!
+I'm WIN ZAW HTOO, the creator of this SQL learning repository. My aim is to make SQL accessible and understandable for everyone. This repository is a reflection of my journey in mastering SQL. I invite you to join me on this exciting journey. You can also practice SQL using this link below. I've provided solutions for all the exercises there. Let's learn together!
 
 ### [SQL Teaching &#128279;](https://www.sqlteaching.com/)
 
@@ -27,4 +27,4 @@ This SQL query returns the maximum number of books read (`num_books_read`) from 
 
 If you’re also learning SQL or interested in databases, feel free to follow along and learn with me. Let’s support each other on this journey of learning!
 
-    You can copy this content and paste it into your `README.md` file. Remember to replace the SQL query with your own examples and adjust the text as needed to fit your personal style and the specifics of your repository. Happy learning! 😊
+You can copy this content and paste it into your `README.md` file. Remember to replace the SQL query with your own examples and adjust the text as needed to fit your personal style and the specifics of your repository. Happy learning! 😊

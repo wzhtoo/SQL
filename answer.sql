@@ -169,11 +169,6 @@ CASE
 END AS sound
 FROM friends_of_pickles;
 
-/*Saya Msquare*/
-/* မီးပျက်သွား */
-/* မီးလိုင်းချိန်း */
-/* KMKL MIN AUNG HLAING */
-
 /* Lesson 30: SUBSTR */
 SELECT *
 FROM robots
